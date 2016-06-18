@@ -61,8 +61,8 @@ You may want to hide header, footer and navigation elements for the popups. When
     {% endif %}
 
 
-3. Add the *edit relaed* button
--------------------------------
+3. Add the *edit related* button
+--------------------------------
 Similarly to the *add another* button, you can add the *edit related* button by wrapping your widget with the :class:`RelatedWidgetWrapper` class.
 
 It works exactly in the same way. You just need to provide an edit URL too.
